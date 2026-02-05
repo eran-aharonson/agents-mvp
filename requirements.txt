@@ -1,0 +1,10 @@
+# Core dependencies
+# (Uses Python standard library - asyncio, dataclasses, uuid, etc.)
+
+# Optional for future enhancements:
+# redis>=4.0.0          # For distributed state
+# grpcio>=1.50.0        # For gRPC communication
+# protobuf>=4.0.0       # For message serialization
+# pydantic>=2.0.0       # For data validation
+# openai>=1.0.0         # For LLM integration
+# chromadb>=0.4.0       # For vector DB / semantic memory
